@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Harsh a Pre final-year AI/ML student with a 8.8 CGPA and a deep obsession with understanding why a model does what it does, not just whether it performs well on a test set. My interest sits at the intersection of Algorithms and Statistics ,NLP , Transformers , RAG System and Responsible AI fields where the stakes are high enough that if it doesn't works isn't a good enough answer. <br> I write clean Python, think in systems, and I'm genuinely comfortable going from raw data to a deployed, explainable output. But more than the technical stack, what drives me is building things that are honest about what they can and can't do, models that a domain expert can question and a non-technical stakeholder can actually understand.<br><br>
+I'm Harsh a Pre final-year AI/ML student with a deep obsession with understanding why a model does what it does, not just whether it performs well on a test set. <br> I write clean Python, think in systems, and I'm genuinely comfortable going from raw data to a deployed, explainable output. But more than the technical stack, what drives me is building things that are honest about what they can and can't do, models that a domain expert can question and a non-technical stakeholder can actually understand.<br><br>
 
 
 ## 🌐 Socials:
