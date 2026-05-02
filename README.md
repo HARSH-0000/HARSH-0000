@@ -20,7 +20,6 @@ I'm Harsh a Pre final-year AI/ML student with a deep obsession with understandin
 
 
 ---
-[![](https://komarev.com/ghpvc/?username=HARSH-0000&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
