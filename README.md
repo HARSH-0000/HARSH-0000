@@ -1,12 +1,17 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Harsh%20Sharma&fontSize=70&fontAlignY=35&desc=AI%20%7C%20ML%20Engineer&descAlignY=55&descSize=25" alt="Header" />
+</div>
 
-# Hello World! I'm Harsh Sharma 🚀
-
-### 🧠 AI & ML Engineer | Building Scalable Intelligence
-
+<div align="center">
+  <a href="mailto:harsh.sharma4131@gmail.com"><img src="https://img.shields.io/badge/Email-harsh.sharma4131%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <!-- IMPORTANT: Replace the 'YOUR_LINKEDIN_URL' below with your actual LinkedIn username -->
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/HARSH-0000"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
 <br/>
+
+### 🧠 System Architecture & Profile
 
 ```yaml
                                  [SYSTEM BOOT] AI Agent HARSH_SHARMA_v1.0 Online...
@@ -16,21 +21,9 @@
            / \ / \ / \ /         Location: Pune, Maharashtra, India
           O---o---O---o          Education: B.Tech in AI & ML (CGPA: 8.6/10)
            \ / \ / \ /           
-            o---O---o            > cat core_modules.json
+            o---O---o            > cat core_focus.json
              \ / \ /             {
-              O---o                "Languages": ["Python", "Java", "SQL"],
-               \ /                 "Libraries": ["PyTorch", "LangChain", "scikit-learn", "Streamlit"],
-                O                  "AI_Focus":  ["LLMs", "RAG Systems", "Multi-Agent Workflows"],
-      [NEURAL ENGINE OK]           "Databases": ["Pinecone (Vector DB)", "MySQL", "MongoDB"]
-                                 }
-
-                                 > grep "Experience & Projects" /var/log/career.log
-                                 [Internship] Data Scientist @ Zidio Development (CNN-LSTM Image Captioning)
-                                 [Project]    Medical Chatbot (LLM-Based RAG, LangChain, Pinecone)
-                                 [Project]    Neuroscan (Brain Tumor Classification, PyTorch, VGG16)
-                                 [Project]    Multi-Agent Research System (4-Stage workflow, OpenAI)
-
-                                 > ./connect.sh
-                                 [+] Email:   harsh.sharma4131@gmail.com
-                                 [+] GitHub:  https://github.com/HARSH-0000
-                                 [+] Status:  Passionate about deploying production-ready ML systems
+              O---o                "Specialization": "Large Language Models (LLMs)",
+               \ /                 "Core_Strengths": ["RAG Systems", "Deep Learning", "Multi-Agent Workflows"],
+                O                  "Passion": "Building scalable, production-ready AI pipelines"
+      [NEURAL ENGINE OK]         }
